@@ -4,3 +4,4 @@ hrefsuffix = false
 paths = [
 	'bunnies',
 ]
+datefmt = '%b %d, %I:%M%p'
