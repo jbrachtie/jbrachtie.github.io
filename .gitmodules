@@ -1,0 +1,3 @@
+[submodule "bunnies"]
+	path = bunnies
+	url = https://github.com/jbrachtie/slag-bunnies.git

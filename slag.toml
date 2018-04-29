@@ -1,0 +1,6 @@
+target = '.'
+baseurl = 'https://jbrachtie.github.io'
+hrefsuffix = false
+paths = [
+	'bunnies',
+]
